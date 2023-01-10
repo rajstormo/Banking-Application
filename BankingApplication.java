@@ -63,9 +63,7 @@ class BankAccount {
 
       switch (option) {
         case 1:
-          // System.out.println("---------------------------");
           System.out.println("Balance = " + balance);
-          // System.out.println("---------------------------");
           System.out.println("\n");
           break;
 
